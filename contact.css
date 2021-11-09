@@ -1,0 +1,16 @@
+body {
+	background-color: lightslategray;
+}
+
+div {
+	text-align: center;
+}
+.topnav {
+	background-color: gray;
+}
+.topnav {
+	text-align: center;
+	padding: 15px 16px;
+	font-size: 20px;
+	text-decoration-color: white;
+}
